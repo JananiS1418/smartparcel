@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "69cf6020c5e92f2ddf5f44fb",
+    "name": "Janani",
+    "email": "jananisom14@gmail.com",
+    "password": "$2b$10$K2j8765zkHkQMz/uxj19iu6SI4mWBiQzn3O0zbh7GzJkZE6YODkJm",
+    "role": "driver",
+    "rating": 5,
+    "truckDetails": {
+      "model": "",
+      "licensePlate": "",
+      "weightCapacity": null,
+      "volumeCapacity": null
+    },
+    "createdAt": "2026-04-03T06:37:20.107Z",
+    "updatedAt": "2026-04-03T06:37:20.107Z",
+    "__v": 0
+  }
+]
